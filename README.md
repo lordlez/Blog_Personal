@@ -1,5 +1,5 @@
 # :rocket:			Blog Personal
-Link directo al proyecto: https://lordlez.github.io/Blog_Personal/
+Link directo al proyecto: [link](https://lordlez.github.io/Blog_Personal/)
 
 
 # 📝 Objetivo del proyecto
